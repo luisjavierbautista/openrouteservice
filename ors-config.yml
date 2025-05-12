@@ -10,6 +10,8 @@ ors:
     profiles:
       driving-car:
         enabled: true
+      foot-walking:
+        enabled: true
 
 ################################################################################
 ### Configuration file for openrouteservice. For a description please visit: ###
